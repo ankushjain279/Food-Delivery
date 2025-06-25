@@ -13,7 +13,7 @@ function Cart() {
   console.log("apni cart",Cartitem);
 
   return  Cartitem.length===0?
-  <h1 className='text-center m-2 font-bold text-2xl '>item add kar chutiye</h1> 
+  <h1 className='text-center m-2 font-bold text-2xl '>item add kar Bhai</h1> 
   :(
     <div>
       <h1 className='font-bold text-center underline py-2'>Cart</h1>

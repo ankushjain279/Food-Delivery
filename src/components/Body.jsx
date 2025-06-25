@@ -18,7 +18,7 @@ function Body() {
   // console.log(letgetrestro);
 
   if (onlinestatus === false)
-    return <h1 className="text-center text-2xl mt-4 text-red-600 font-semibold">Net band hai chutiye</h1>;
+    return <h1 className="text-center text-2xl mt-4 text-red-600 font-semibold">Net band hai Bhai</h1>;
 
   return letgetrestro?.length === 0 ? (
     <div className="flex flex-wrap justify-center gap-6 p-6">

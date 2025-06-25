@@ -5,7 +5,7 @@ function Error(){
     console.log(error);
     return(
         <>
-        <h1 className='m-2 text-2xl'>error a gyi mere bhai chutiye</h1>
+        <h1 className='m-2 text-2xl'>error a gyi mere bhai Bhai</h1>
         <h2>{error.status}  {error.statusText}</h2>
         <h2>{error.data}</h2>
         </>
